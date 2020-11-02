@@ -1,0 +1,16 @@
+{
+  "name": "app_name",
+  "version": "1.0.0",
+  "description": "Simple vanilla js project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "Max Sierra",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
